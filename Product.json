@@ -3,70 +3,70 @@
         "id": "1",
         "title": "Caffè Latte",
         "details": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caffe_latte_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caffe_latte_poster.jpg" 
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caffe_latte_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caffe_latte_poster.jpg" 
     },
     {
         "id": "2",
         "title": "Cappuccino",
         "details": "Espresso with steamed milk, topped with a deep layer of foam.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/cappuccino_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/cappuccino_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/cappuccino_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/cappuccino_poster.jpg"
     },
     {
         "id": "3",
         "title": "Caffè Mocha",
         "details": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caffe_mocha_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caffe_mocha_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caffe_mocha_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caffe_mocha_poster.jpg"
     },
     {
         "id": "4",
         "title": "Caramel Macchiato",
         "details": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caramel_macchiato_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caramel_macchiato_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caramel_macchiato_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/caramel_macchiato_poster.jpg"
     },
     {
         "id": "5",
         "title": "Vanilla Sweet Cream Cold Brew",
         "details": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/vanilla_sweet_cream_cold_brew_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/vanilla_sweet_cream_cold_brew_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/vanilla_sweet_cream_cold_brew_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/vanilla_sweet_cream_cold_brew_poster.jpg"
     },
     {
         "id": "6",
         "title": "Cold Brew",
         "details": "Slow-steeped, small-batch and super smooth.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/cold_brew_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/cold_brew_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/cold_brew_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/cold_brew_poster.jpg"
     },
     {
         "id": "7",
         "title": "Mango Passion Frappuccino",
         "details": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/mango_passion_frappuccino_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/mango_passion_frappuccino_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/mango_passion_frappuccino_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/mango_passion_frappuccino_poster.jpg"
     },
     {
         "id": "8",
         "title": "Raspberry Currant Frappuccino",
         "details": "Made with freshly brewed Teavana® tea, blended juice and ice.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/raspberry_currant_frappuccino_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/raspberry_currant_frappuccino_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/raspberry_currant_frappuccino_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/raspberry_currant_frappuccino_poster.jpg"
     },
     {
         "id": "9",
         "title": "Coffee Frappuccino",
         "details": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/coffee_frappuccino_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/coffee_frappuccino_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/coffee_frappuccino_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/coffee_frappuccino_poster.jpg"
     },
     {
         "id": "10",
         "title": "Mocha Frappuccino",
         "details": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
-        "foto-thumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/mocha_frappuccino_thumbnail.png",
-        "foto-poster": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/mocha_frappuccino_poster.jpg"
+        "fotothumbnail": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/mocha_frappuccino_thumbnail.png",
+        "fotoposter": "https://raw.githubusercontent.com/yohandagita25/MoPro/refs/heads/main/mocha_frappuccino_poster.jpg"
     }
 ]
